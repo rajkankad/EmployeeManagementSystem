@@ -15,7 +15,7 @@ const AcceptTask = ({data}) => {
             {/* Animated background effects */}
             <div className="absolute inset-0">
                 <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_120%,rgba(255,255,255,0.1),transparent)] animate-[pulse_4s_ease-in-out_infinite]"></div>
-                <div className="absolute inset-0 bg-[linear-gradient(45deg,rgba(255,255,255,0.05)_25%,transparent_25%,transparent_50%,rgba(255,255,255,0.05)_50%)] bg-[length:20px_20px] animate-[grain_8s_linear_infinite]"></div>
+                <div className="absolute inset-0 bg-[linear-gradient(45deg,rgba(255,255,255,0.05)_25%,transparent_25%,transparent_50%,rgba(255,255,255,0.05)_50%)] bg-[length:21px_20px] animate-[grain_8s_linear_infinite]"></div>
             </div>
 
             {/* Content */}
